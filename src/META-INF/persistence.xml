@@ -19,7 +19,7 @@
 			<property name="openjpa.jdbc.DBDictionary" value="postgres" />
 			<property name="openjpa.ConnectionDriverName" value="org.postgresql.Driver" />
 			<property name="openjpa.ConnectionUserName" value="remaxer" />
-			<property name="openjpa.ConnectionPassword" value="gret456" />
+			<property name="openjpa.ConnectionPassword" value="null" />
 			<property name="openjpa.RuntimeUnenhancedClasses" value="supported" />
 			<property name="openjpa.Log" value="SQL=TRACE" />
 
